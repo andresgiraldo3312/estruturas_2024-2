@@ -2,4 +2,5 @@
 
 ## primera clase
 
-Este es el primer acercamiento a git
+Este es el primer acercamiento a git.
+este es un ejemplo de modificaciones
