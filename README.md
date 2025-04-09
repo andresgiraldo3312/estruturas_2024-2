@@ -4,4 +4,5 @@
 
 Este es el primer acercamiento a git.
 este es un ejemplo de modificaciones
-esta modificacion es mediante github
+esta modificacion se hizo local
+
